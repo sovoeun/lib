@@ -1,7 +1,7 @@
 ##Add package to composer.json
-    camdigikey/library: xxx
+    camdigikey/library: v1.0.0
 
-    composer required camdigikey/library: xxx
+    composer required camdigikey/library: v1.0.0
 
 ##Add Variable to .env
     CAMDIGIKEY_CLIENT_ID=a9c5ca34-8596-4cc6-a2ed-ae3c992e4fe5
